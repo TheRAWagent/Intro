@@ -1,0 +1,23 @@
+body {
+  background-color: #cc9600;
+}
+
+h1 {
+  background-color: transparent;
+  color: green;
+  text-shadow: 20px;
+}
+
+hr {
+  background-color: transparent;
+  border-color: purple;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  height: 0;
+  width: 12%;
+}
+td
+{
+
+}
